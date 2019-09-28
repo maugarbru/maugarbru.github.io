@@ -1,3 +1,13 @@
-# maugarbru.github.io
+# PÁGINA PERSONAL
+Página personal hecha con HTML, CSS y JavaScript.
 
-Esta es una página de presentación donde pruebo varios estilos y animaciones en CSS, además de tener los links a mis redes sociales principales.
+## HTTPS://MAUGARBRU.GITHUB.IO
+
+### Funcionalidades de la página
+1. Links a redes sociales
+2. Visualización de imágenes
+3. Hoja de vida.
+
+### Características de la página
+* Responsive
+* Montada en [Github Pages](https://pages.github.com/)
